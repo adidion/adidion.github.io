@@ -8,3 +8,11 @@ Mandalorians in the greater Star Wars franchise.
 Here "The Mandalorian" refers to the new TV series "Star Wars: The Mandalorian", which is an American space western series.
 
 The main character is a guy from the planet Mandalore and called "Mando".
+
+## Mandos Character Traits
+* His real name is "Din Djarin"
+* His parents are killed during an attack
+* He isn't a "real" Mandalorian
+* Mandalorian warriors rescued him
+* He was adopted later into thier culture
+
