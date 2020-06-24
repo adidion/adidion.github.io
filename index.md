@@ -16,3 +16,4 @@ The main character is a guy from the planet Mandalore and called "Mando".
 * Mandalorian warriors rescued him
 * He was adopted later into thier culture
 
+<img src="https://vignette.wikia.nocookie.net/starwars/images/8/8a/Pascal_as_The_Mando-Advanced_Graphics.png/revision/latest/scale-to-width-down/350?cb=20191007095801"/>
