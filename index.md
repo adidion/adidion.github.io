@@ -16,3 +16,4 @@ The main character is a guy from the planet Mandalore and called "Mando".
 * Mandalorian warriors rescued him
 * He was adopted later into thier culture
 
+>I can bring you in warm… or I can bring you in cold.
